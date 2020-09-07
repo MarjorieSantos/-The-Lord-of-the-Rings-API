@@ -1,0 +1,8 @@
+.select-area {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background: goldenrod;
+    border: 1px solid black;
+    border-radius: 5px;
+}
